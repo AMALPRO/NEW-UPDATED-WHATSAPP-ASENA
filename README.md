@@ -2,7 +2,7 @@
 Its_me_Amal
 
 <div align="center">
-   r_text[0] = "https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ";
+   r_text[0] = <https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
