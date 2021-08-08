@@ -2,7 +2,7 @@
 Its_me_Amal
 
 <div align="center">
-   <img src=https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ.mp4>
+   <img src=https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ.gif>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
